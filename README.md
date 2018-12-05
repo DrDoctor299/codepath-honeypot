@@ -13,5 +13,9 @@ was open on port 80.
 The messages sent to the honeypot by my commands were sometimes interesting to observe, oftentimes
 containing characters not covered by the UTF-8 character set (and apparently not UNICODDE either) I'm
 assuming that these requests to the "server" were intended to break things, but I'm not sure in what way.
-I would be curious to find out how they function, and how the honeypot could be configured to be high interaction
-so that more information could be caputured from the seemingly nonsense requests.
+I would be curious to find out how they function, and how the honeypot could be configured to be high 
+interaction so that more information could be caputured from the seemingly nonsense requests.
+
+I have included the log file which the honeypot recorded all of the intrusions in; unfortunately 
+it was in the form of a .txt, and I'm unsure of how to go about converting it to JSON. For this reason, 
+I submitted the .txt file along with this writeup.
