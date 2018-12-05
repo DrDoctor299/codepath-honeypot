@@ -1,0 +1,940 @@
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 23 (2018-12-04 22:35:08 -0500)
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2018-12-04 23:06:01 -0500)
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53944 (2018-12-04 23:10:59 -0500)
+ -----------------------------
+GET / HTTP/1.0
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53946 (2018-12-04 23:11:02 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.0
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53948 (2018-12-04 23:11:05 -0500)
+ -----------------------------
+OPTIONS / RTSP/1.0
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53950 (2018-12-04 23:11:08 -0500)
+ -----------------------------
+l\00\00\00\00\00\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53952 (2018-12-04 23:11:11 -0500)
+ -----------------------------
+GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53954 (2018-12-04 23:11:14 -0500)
+ -----------------------------
+
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53956 (2018-12-04 23:11:17 -0500)
+ -----------------------------
+\80\00\00(r\FE\00\00\00\00\00\00\00\00\86\A0\00\97|\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53958 (2018-12-04 23:11:20 -0500)
+ -----------------------------
+\00\00\00\00\00\00\00\00\00\00versionbind\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53960 (2018-12-04 23:11:23 -0500)
+ -----------------------------
+\00\00\00\00\00\00\00\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53962 (2018-12-04 23:11:26 -0500)
+ -----------------------------
+HELP
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53964 (2018-12-04 23:11:29 -0500)
+ -----------------------------
+\00\00S\00\00O\00?G\D7\F7\BA,\EE\EA\B2`~\F3\00\FD\82{\B9Ֆ\C8w\9B\E6\C4\DB<=\DBo\EFn\00\00(\00\00\00
+\00f\00\00\00e\00d\00c\00b\00a\00`\00\00\00	\00\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53966 (2018-12-04 23:11:32 -0500)
+ -----------------------------
+\00\00i\00\00eU\A7\E4random1random2random3random4\00\00\00/\00
+\00\009\00\00\FF\00\000\00
+\00,\00*\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53968 (2018-12-04 23:11:35 -0500)
+ -----------------------------
+\00\00\00qj\81n0\81k\A1\A2
+\A4\81^0\\A0\00P\80\00\A2NM\A30\A0\00\A10krbtgtNM\A519700101000000Z\A7\B9٨0
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53970 (2018-12-04 23:11:38 -0500)
+ -----------------------------
+\00\00\00\A4\FFSMBr\00\00\00\00@\00\00\00\00\00\00\00\00\00\00\00\00\00\00@\00\00\00\00\81\00PC NETWORK PROGRAM 1.0\00MICROSOFT NETWORKS 1.03\00MICROSOFT NETWORKS 3.0\00LANMAN1.0\00LM1.2X002\00Samba\00NT LANMAN 1.0\00NT LM 0.12\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53972 (2018-12-04 23:11:41 -0500)
+ -----------------------------
+default
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53974 (2018-12-04 23:11:44 -0500)
+ -----------------------------
+0\84\00\00\00-c\84\00\00\00$\00
+\00
+\00\00d\00\87objectClass0\84\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53976 (2018-12-04 23:11:47 -0500)
+ -----------------------------
+0`\00\80\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53978 (2018-12-04 23:11:50 -0500)
+ -----------------------------
+OPTIONS sip:nm SIP/2.0
+
+Via: SIP/2.0/TCP nm;branch=foo
+
+From: <sip:nm@nm>;tag=root
+
+To: <sip:nm2@nm2>
+
+Call-ID: 50000
+
+CSeq: 42 OPTIONS
+
+Max-Forwards: 70
+
+Content-Length: 0
+
+Contact: <sip:nm@nm>
+
+Accept: application/sdp
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53980 (2018-12-04 23:11:53 -0500)
+ -----------------------------
+TNMP\00\00\00TNME\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53982 (2018-12-04 23:11:56 -0500)
+ -----------------------------
+\00\00\E0\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53984 (2018-12-04 23:11:59 -0500)
+ -----------------------------
+DmdT\00\00\00\00\00\00\00\00\00\00\00\FF\FF
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53986 (2018-12-04 23:12:02 -0500)
+ -----------------------------
+:\00\00\00/\00\00\00\00\00@\00\00=\00\00\00\00\00\00\00\00\00\00\00\00/\00\00\00\00\00\00\00\00\00@\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53988 (2018-12-04 23:12:05 -0500)
+ -----------------------------
+JRMI\00K
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53990 (2018-12-04 23:12:08 -0500)
+ -----------------------------
+\00\00\FD\CE\FA\B0\A0\00\00\00MMS\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\F0\F0\F0\F0\00\00\00\00N\00S\00P\00l\00a\00y\00e\00r\00/\009\00.\000\00.\000\00.\002\009\008\000\00;\00 \00{\000\000\000\000\00A\00A\000\000\00-\000\00A\000\000\00-\000\000\00a\000\00-\00A\00A\000\00A\00-\000\000\000\000\00A\000\00A\00A\000\00A\00A\000\00}\00\00\00\E0m\DF_
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53992 (2018-12-04 23:12:11 -0500)
+ -----------------------------
+\00Z\00\00\00\00\006,\00\00\00\FF\00\00\00\00 \00:\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\004\E6\00\00\00\00\00\00\00\00\00\00\00(CONNECT_DATA=(COMMAND=version))
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53994 (2018-12-04 23:12:14 -0500)
+ -----------------------------
+\004\00\00\00\00\00\00\00\00\00\00\00\00(\00\FF\00U\00\00\00MSSQLServer\00H\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53996 (2018-12-04 23:12:17 -0500)
+ -----------------------------
+\00\00\00\00\00\00\00\00\00\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:53998 (2018-12-04 23:12:20 -0500)
+ -----------------------------
+GIOP\00\00$\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00abcdef\00\00\00\00\00get\00\00\00\00\00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54000 (2018-12-04 23:12:24 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Authorization: NTLM TlRMTVNTUAABAAAAB4IIoAAAAAAAAAAAAAAAAAAAAAA=
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54002 (2018-12-04 23:12:25 -0500)
+ -----------------------------
+GET /robots.txt HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54004 (2018-12-04 23:12:26 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54006 (2018-12-04 23:12:27 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54008 (2018-12-04 23:12:28 -0500)
+ -----------------------------
+GET /nmaplowercheck1543983143 HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54010 (2018-12-04 23:12:29 -0500)
+ -----------------------------
+GET /.git/HEAD HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54012 (2018-12-04 23:12:30 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: HEAD
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54014 (2018-12-04 23:12:31 -0500)
+ -----------------------------
+POST / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Connection: close
+
+Content-Type: application/x-www-form-urlencoded
+
+Content-Length: 88
+
+
+
+<methodCall> <methodName>system.listMethods</methodName> <params></params> </methodCall>
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54016 (2018-12-04 23:12:32 -0500)
+ -----------------------------
+t3 12.1.2
+AS:2048
+HL:19
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54018 (2018-12-04 23:12:33 -0500)
+ -----------------------------
+POST /sdk HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+Content-Length: 441
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+<soap:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Header><operationID>00000001-00000001</operationID></soap:Header><soap:Body><RetrieveServiceContent xmlns="urn:internalvim25"><_this xsi:type="ManagedObjectReference" type="ServiceInstance">ServiceInstance</_this></RetrieveServiceContent></soap:Body></soap:Envelope>
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54020 (2018-12-04 23:12:34 -0500)
+ -----------------------------
+PROPFIND / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Depth: 0
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54022 (2018-12-04 23:12:35 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54024 (2018-12-04 23:12:36 -0500)
+ -----------------------------
+PROPFIND / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Depth: 0
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54026 (2018-12-04 23:12:37 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54028 (2018-12-04 23:12:38 -0500)
+ -----------------------------
+HSSG / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54030 (2018-12-04 23:12:39 -0500)
+ -----------------------------
+\00\F5\00\00\F1\B6\93\AABSri'\F7\E9O1mw\E9O:\94\DC\FC
+r\82BiB\BCa\F4\BB\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54032 (2018-12-04 23:12:40 -0500)
+ -----------------------------
+\00\F5\00\00\F1K\DF!r\A6f8[.\9D꼨c\8A\866&\AB?\A3g\BD8:}\8A\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54034 (2018-12-04 23:12:41 -0500)
+ -----------------------------
+\00\F5\00\00\F1\FF\C7\C6\FC\DF\8E\80\8Cd
+\99rDT)\89H\AD\B7,z\9B\A8\95\FD\BD\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54036 (2018-12-04 23:12:42 -0500)
+ -----------------------------
+\00\F5\00\00\F1"Y\BA\E2\AF\DD\EF\A5Q9\B7N3@\B3b\BA \86\E0}>\94ƭp*|\8D\9E_\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54038 (2018-12-04 23:12:43 -0500)
+ -----------------------------
+\00\F5\00\00\F1G\C9\AC3\B6[Pq".\CBڠ\9Eɇz\C0\F8hA\E9\B7V\B8/\9DY\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54040 (2018-12-04 23:12:44 -0500)
+ -----------------------------
+\00\F5\00\00\F1\F2\EA&}\F3-CB8\BAX҇쀀!00\8E\B1]\E2q\939Y\F9\BE\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54042 (2018-12-04 23:12:45 -0500)
+ -----------------------------
+\00\F5\00\00\F1z/i\F2\C8F\F9
++p\C6\DAf(\F2\87YLg\B1\F8
+\871\CE\D96\89\E1J\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54044 (2018-12-04 23:12:46 -0500)
+ -----------------------------
+GET /HNAP1 HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54046 (2018-12-04 23:12:47 -0500)
+ -----------------------------
+GET /nmaplowercheck1543983143 HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54048 (2018-12-04 23:12:48 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: GET
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54050 (2018-12-04 23:12:49 -0500)
+ -----------------------------
+PROPFIND / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Depth: 1
+
+Connection: close
+
+Content-Length: 0
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54052 (2018-12-04 23:12:50 -0500)
+ -----------------------------
+\00\F5\00\00\F1\F4\80\DF\EB\B3\FA\E0\EC\9F`!\F\B9\AB\DFdW'c\FE\BB[a\A9\94x\8E\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54054 (2018-12-04 23:12:51 -0500)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54056 (2018-12-04 23:12:52 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54058 (2018-12-04 23:12:53 -0500)
+ -----------------------------
+\00\F5\00\00\F1O\A2E-I\94\C\D3}\C1\D4B\E6%\E6\E1\A9\E43\FC&\B1-\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54060 (2018-12-04 23:12:54 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54062 (2018-12-04 23:12:55 -0500)
+ -----------------------------
+\00\F5\00\00\F1rr\E9[\B9\EE8\BF\B4"Hv\AF\A8?Ш΢\9B\AD\C4"\96\94o\00\DB\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54064 (2018-12-04 23:12:56 -0500)
+ -----------------------------
+\00\F5\00\00\F1B\B8
+\F6w\81v\93q\81\92\D7;R	\BA\A1?\C2\E0\87Y\82߶c\EB\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54066 (2018-12-04 23:12:57 -0500)
+ -----------------------------
+\00\F5\00\00\F1\AF\F0#\A0J0U\D3ā趗Ϻ\F7aVD \9F\B61\AC^\9F\86˾@\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54068 (2018-12-04 23:12:58 -0500)
+ -----------------------------
+\00\F5\00\00\F1\93ۏg\E3_\AB\9E\895\9Eu S\AD\A5q\E7 \87\CE\EA\A0~rq\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54070 (2018-12-04 23:12:59 -0500)
+ -----------------------------
+GET /evox/about HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54072 (2018-12-04 23:13:00 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: POST
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54074 (2018-12-04 23:13:01 -0500)
+ -----------------------------
+\00\F5\00\00\F1\95M\8B\82\ED\F7G\C9I\DD݌G\\B7\BAİ\FA\F8\F4\9Dl\CE3\A8\F2U\A8\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54076 (2018-12-04 23:13:02 -0500)
+ -----------------------------
+\00\F5\00\00\F1\8B\D0%\BA\83\BF"]\B2O\C0\B1`\C1\C5\EA\A9@\A7\E3\C3zi'jy\B2c\FD\\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54078 (2018-12-04 23:13:03 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54080 (2018-12-04 23:13:04 -0500)
+ -----------------------------
+\00\F5\00\00\F19<peVjw\BC\A3Gz\8A\88\D5~\B6Y\9B\B9\B1\94\930\A4\80˗\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54082 (2018-12-04 23:13:05 -0500)
+ -----------------------------
+HEAD / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54084 (2018-12-04 23:13:06 -0500)
+ -----------------------------
+\00\F5\00\00\F1\A9\D8?\E5\8BpŚx\93p,&X\FE-2Hqz\DC\00\9A \8B\CE\E1\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54086 (2018-12-04 23:13:07 -0500)
+ -----------------------------
+\00\F5\00\00\F1\8A\85Ń\9F\C9\C1\93\BA\DF6i;\E5͗\FC\AA\9Ef\B7i\F8\FB\EB\C1\DBd\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54088 (2018-12-04 23:13:08 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: PUT
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54090 (2018-12-04 23:13:09 -0500)
+ -----------------------------
+\00\F5\00\00\F10gP\DB\F1M\EBr/\D2K/\96\F3Z\B1QHB[;/\F8\A4\91Y\F0\9C\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54092 (2018-12-04 23:13:10 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54094 (2018-12-04 23:13:11 -0500)
+ -----------------------------
+\00\F5\00\00\F1\C2+\EAhãy\EC\B7>\C9߳O\9F)\85 \99pI\B6\BEcg\D0\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54096 (2018-12-04 23:13:12 -0500)
+ -----------------------------
+POST / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+Content-Length: 0
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54098 (2018-12-04 23:13:13 -0500)
+ -----------------------------
+\00\F5\00\00\F1Y#\FB\E4гݡ\F6\CC䷑;l\D6
+\BF^\DAc\D9\C6{7\8Ba\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54100 (2018-12-04 23:13:14 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: DELETE
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54102 (2018-12-04 23:13:15 -0500)
+ -----------------------------
+\00\F5\00\00\F1|~\FE\E1\B7\A6\8F\BEC(G\AE\B5m\CD)\F5^\A6\B9\F1 0\B1\AE`\95\BBM\E7\F1\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54104 (2018-12-04 23:13:16 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54106 (2018-12-04 23:13:17 -0500)
+ -----------------------------
+\00\F5\00\00\F1\9E.%\C7\E7.ȣ\D5&\8C\8Ef\E4_?\9E\9B\F1U\EEWX\D1ƞb\A5\BA\8B\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54108 (2018-12-04 23:13:18 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54110 (2018-12-04 23:13:19 -0500)
+ -----------------------------
+\00\F5\00\00\F18\B4t\FF\AD&\B8ah\F6\D2t\DA3<t\8E 0\AC)\E6+\D0_~\F6n\95\A2\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54112 (2018-12-04 23:13:20 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: TRACE
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54114 (2018-12-04 23:13:21 -0500)
+ -----------------------------
+\00\F5\00\00\F1ò\FA+\F1q\C3\DA\F2M\8C\9A)i\D7\C4\E0\97\D5\C1\A83\B8޵P\B9\DC\88\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54116 (2018-12-04 23:13:22 -0500)
+ -----------------------------
+GET / HTTP/1.1
+
+Host: localhost
+
+Connection: close
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54118 (2018-12-04 23:13:23 -0500)
+ -----------------------------
+\00\F5\00\00\F1\CE\C29vl\D8Y\99!:\FF\A1\FB\98J>\A5^\F0\B7uf\8BP\83\98\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54120 (2018-12-04 23:13:24 -0500)
+ -----------------------------
+\00\F5\00\00\F1.\A2o\BE\DCc\FB\8A\F9\80\89P\F4\D6\E1盀\FC\B7\AB|\\B9G\AE.P\AFy\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54122 (2018-12-04 23:13:25 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: OPTIONS
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54124 (2018-12-04 23:13:26 -0500)
+ -----------------------------
+\00\F5\00\00\F1\B6\F7y\A5 8'g\ED\E6K%\DFh}Ub1\C9p\B0wy[\B7\A0\F6\\92\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54126 (2018-12-04 23:13:27 -0500)
+ -----------------------------
+\00\F5\00\00\F1U\9E\8AϩL\C39\BD-k0\F2,\F6X\FD\A8\BA\B1\A7by@~0\EAi\A3\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54128 (2018-12-04 23:13:28 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: CONNECT
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54130 (2018-12-04 23:13:29 -0500)
+ -----------------------------
+\00\F5\00\00\F1pPF\8C\A1\D8\E0'\A4\F2Q\FE\DF\DE\D5h\9F\9D\B0\ED~\9B!yI\D52L\00\00\82\003\009\005\00/\C0,\C00\00\A3\00\9F̨̩̪\C0\AF\C0\AD\C0\A3\C0\9F\C0+\C0/\00\A2\00\9E\C0\AE\C0\AC\C0\A2\C0\9E\C0$\C0(\00k\00j\C0s\C0w\00\C4\00\C3\C0#\C0'\00g\00@\C0r\C0v\00\BE\00\BD\C0
+\C0\008\00\88\00\87\C0	\C0\002\00\9A\00\99\00E\00D\00\9D\C0\A1\C0\9D\00\9C\C0\A0\C0\9C\00=\00\C0\00<\00\BA\00\84\00\96\00A\00\FF\00\00F\00\00\00\00
+\00
+\00\00\00\00\00\00#\00\00\00\00\00\00\00\00\00
+\00 \00
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:54132 (2018-12-04 23:13:30 -0500)
+ -----------------------------
+OPTIONS / HTTP/1.1
+
+Host: localhost
+
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+Origin: example.com
+
+Connection: close
+
+Access-Control-Request-Method: PATCH
+
+
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:663 (2018-12-04 23:13:33 -0500)
+ -----------------------------
+\80\00\00($A\00\00\00\00\00\00\00\00\86\A0\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00
